@@ -1,16 +1,12 @@
-### Hi there 👋
+##  Olá! Eu sou Matheus Lopes
 
-<!--
-**TheusLopes01/TheusLopes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cursando Análise e Desenvolvimento de Sistemas na Uninove
+- Tenho conhecimento em HTML, CSS, JavaScript e Python!
+- E-mail: mslopesiva01@gmail.com
+- Linkedin: https://www.linkedin.com/in/matheus-lopes-da-silva-30ab63250/
+- Atualmente estou mais focado em Python, cursando na Udemy!
+- Trabalho na Veeva Systems como Data Steward atualmente.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheusLopes01&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TheusLopes01&show_icons=true&theme=radical&langs_count=5)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheusLopes01)](https://github.com/anuraghazra/github-readme-stats)
