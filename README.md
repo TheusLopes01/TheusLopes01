@@ -8,4 +8,4 @@
 - Trabalho na Veeva Systems como Data Steward atualmente.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheusLopes01&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TheusLopes01&show_icons=true&theme=radical&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheusLopes01&layout=compact)
