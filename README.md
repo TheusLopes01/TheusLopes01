@@ -1,6 +1,6 @@
 ##  Olá! Eu sou Matheus Lopes
 
-- Cursando Análise e Desenvolvimento de Sistemas na Uninove
+- Cursando Análise e Desenvolvimento de Sistemas na Uninove, e estudando Salesforce
 - Tenho conhecimento em HTML, CSS, JavaScript e Python!
 - E-mail: mslopesiva01@gmail.com
 - Linkedin: https://www.linkedin.com/in/matheus-lopes-da-silva-30ab63250/
