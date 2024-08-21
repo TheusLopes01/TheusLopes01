@@ -1,7 +1,7 @@
 ##  Olá! Eu sou Matheus Lopes
 
 - Cursando Análise e Desenvolvimento de Sistemas na Uninove
-- Tenho conhecimento em HTML, CSS, JS e Python, e iniciei e Salesforce
+- Tenho conhecimento em HTML, CSS, JS e Python, e iniciei Salesforce
 - E-mail: mslopesiva01@gmail.com
 - Linkedin: https://www.linkedin.com/in/matheus-lopes-da-silva-30ab63250/
 - Trabalho na Veeva Systems como Data Steward.
